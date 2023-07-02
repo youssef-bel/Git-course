@@ -1,3 +1,3 @@
 # Git-course
 
-this is note
+this is notes
